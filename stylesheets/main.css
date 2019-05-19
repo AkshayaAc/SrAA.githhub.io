@@ -1,6 +1,6 @@
 .portfolio-header {
-  
-  background-color: lightblue;
+  position: relative;
+  background-image: url(https://raw.githubusercontent.com/AkshayaAc/SrAA.githhub.io/master/header-bg.jpg);
 }
 
 .portfolio-header .mdl-layout__header-row {
